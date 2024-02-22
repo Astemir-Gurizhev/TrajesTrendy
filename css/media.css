@@ -1,0 +1,76 @@
+@media (max-width: 1060px) {
+  .bur {
+    display: block;
+  }
+  .time {
+    padding-block: 100px;
+    background: url("../images/time/timeBg.jpg") 100% 10% no-repeat;
+    background-size: cover;
+  }
+  .timeTitle {
+    font-size: 40px;
+    line-height: 30px;
+  }
+  .topItem {
+    max-width: 350px;
+  }
+  .timeButton {
+    font-size: 14px;
+    padding: 14px;
+  }
+  .topItemTitle {
+    font-size: 40px;
+    line-height: 40px;
+  }
+  .zapolTitle {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  .choose {
+    padding-block: 30px;
+  }
+  .topItem {
+    padding: 10px;
+  }
+  .topItemButton {
+    font-size: 14px;
+    padding: 14px;
+  }
+  .headerList {
+    padding-top: 100px;
+    display: none;
+    gap: 50px;
+  }
+  .headerListLink {
+    color: white;
+  }
+  .weFlex {
+    gap: 30px;
+  }
+  .weRightFlex {
+    gap: 10px;
+  }
+  .weRightTitle {
+    margin-bottom: 10px;
+  }
+  .catalogTitle {
+    margin-bottom: 10px;
+  }
+  .comment {
+    padding-block: 10px;
+  }
+  .commentTitle {
+    font-size: 40px;
+    line-height: 40px;
+  }
+  .obratka {
+    padding: 20px 10px;
+  }
+  .obratkaTitle {
+    font-size: 30px;
+  }
+  .headerFlex {
+    justify-content: end;
+    margin-inline: 20px;
+  }
+}
